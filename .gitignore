@@ -1,0 +1,14 @@
+.idea
+*.iml
+.DS_Store
+target
+logs
+log
+.project.dir
+*.log
+02.ServiceModule/00.Common/tools/mybatis/lib/src/
+~$*
+out
+.project
+.settings
+.classpath
